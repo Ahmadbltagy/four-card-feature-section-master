@@ -10,7 +10,7 @@ body {
 
 main {
   width: 1200px;
-  margin: 50px auto;
+  margin: 60px auto;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -26,14 +26,14 @@ h1 {
   color: hsl(234, 12%, 34%);
 
   line-height: 1.2;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 span {
   display: block;
   font-weight: bold;
 }
 .brief {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   color: hsl(229, 6%, 66%);
 }
 
